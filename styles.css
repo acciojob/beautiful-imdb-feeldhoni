@@ -4,9 +4,11 @@ img{
 	opacity:1;
 }
 .eg1{
-	position:absolute;
-	top:400px;
-	width:500px;
+	
 	text-align:left;
 	font-size:20px;
+}
+position{
+	top:400px;
+	width:500px;
 }
